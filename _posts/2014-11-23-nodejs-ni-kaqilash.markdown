@@ -15,8 +15,8 @@ height:auto;
 .
 <br>
 ئەگەر node.js ھەققىدە ھىچقانداق مەلۇماتقا ئىگە بولمىسڭىز،<<node.js دىگەن زادى نىمە؟>> دىگەن ماقلىنى ئوقۇ
-<br>
-<a href="http://tormahiri.github.io/blog/javascript/2014/11/23/nodejs-hakkida-tormahiri.html">دىگەن ماقلىنى ئوقۇ
+
+ڭ<a href="http://tormahiri.github.io/blog/javascript/2014/11/23/nodejs-hakkida-tormahiri.html">node.js دىگەن زادى نىمە؟
 <video   controls>
   <source  src="http://bilig.cc/course/27/lesson/200/media" type="video/mp4">
  
