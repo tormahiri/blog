@@ -8,7 +8,7 @@ category: nodejs
 تۆۋەندىكى بۇ سىنلىق دەرس 12 مىنۇتلۇق بولۇپ،بۇسىنلىق دەرستە داڭلىق node.js سۇپىسىنى ھاىرلاش تەپسىلى سۆزلەنگەن
 
 <video   controls>
-  <source src="video/node-js-kaqilash.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="http://bilig.cc/course/27/lesson/200/media" type="video/mp4">
+ 
 
 </video>
