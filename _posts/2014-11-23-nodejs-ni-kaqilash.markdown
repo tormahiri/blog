@@ -5,10 +5,16 @@ excerpt: "nodejs"
 date: 2014-11-23 16:24
 category: nodejs
 ---
+<style>
+video{
+width:100%;
+height:auto;
+}
+</style>
 تۆۋەندىكى بۇ سىنلىق دەرس 12 مىنۇتلۇق بولۇپ،بۇسىنلىق دەرستە داڭلىق node.js سۇپىسىنى ھاىرلاش تەپسىلى سۆزلەنگەن
 
 <video   controls>
-  <source width="100%"height="auto" src="http://bilig.cc/course/27/lesson/200/media" type="video/mp4">
+  <source  src="http://bilig.cc/course/27/lesson/200/media" type="video/mp4">
  
 
 </video>
