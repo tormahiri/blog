@@ -7,10 +7,9 @@ categories: css
 ---
 <img src="http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2011/11/OriginalHoverEffects.jpg"/>
 <hr>
-
-<hr>
-```html
 <h2>div قىسمىغا بۇنى يىزىڭ</h2>
+```html
+
 
 <pre>
     <div class="view">  
