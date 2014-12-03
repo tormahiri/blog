@@ -11,7 +11,7 @@ categories: css
 ```html
 
 
-<pre>
+
     <div class="view">  
      <img src="image.gif" />  
      <div class="mask">  
@@ -20,7 +20,7 @@ categories: css
          <a href="#" class="info">Read More</a>  
      </div>  
 </div>  
-</pre>
+
 ```
 
 css كودىغا بۇن يىزىڭ
