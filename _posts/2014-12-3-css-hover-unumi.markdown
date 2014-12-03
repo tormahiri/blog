@@ -10,8 +10,8 @@ categories: css
 div قىسمىغا بۇنى يىزىڭ
 <pre>
 <code>
-kod{
-	
+
+```html
 	<div class="view">  
      <img src="image.gif" />  
      <div class="mask">  
@@ -20,7 +20,9 @@ kod{
          <a href="#" class="info">Read More</a>  
      </div>  
 </div>  
-}
+```
+
+
 
 </code>
 
