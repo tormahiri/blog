@@ -11,7 +11,7 @@ div قىسمىغا بۇنى يىزىڭ
 <pre>
 <code>
 <div class="view">  
-     <img src="image.gif" />  
+     <img src="" />  
      <div class="mask">  
      <h2>Title</h2>  
      <p>Your Text</p>  
@@ -19,6 +19,7 @@ div قىسمىغا بۇنى يىزىڭ
      </div>  
 </div>  
 </code>
+</pre>
 
 </pre>
 
