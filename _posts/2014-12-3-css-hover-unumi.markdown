@@ -11,7 +11,7 @@ div قىسمىغا بۇنى يىزىڭ
 <pre>
 <code>
 
-```html
+```
 	<div class="view">  
      <img src="image.gif" />  
      <div class="mask">  
