@@ -5,7 +5,8 @@ excerpt: "A nice post"
 date:   2014-12-3 12:36:00
 categories: css
 ---
-<img src=http://tympanus.net/Tutorials/OriginalHoverEffects/index.html">
+<img src="http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2011/11/OriginalHoverEffects.jpg"/>
+<hr>
 div قىسمىغا بۇنى يىزىڭ
 <pre>
 <code>
