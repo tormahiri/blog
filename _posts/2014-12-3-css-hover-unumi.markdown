@@ -8,25 +8,21 @@ categories: css
 <img src="http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2011/11/OriginalHoverEffects.jpg"/>
 <hr>
 div قىسمىغا بۇنى يىزىڭ
+<hr>
+```html
+<h2>Example of code</h2>
+
 <pre>
-<code>
-
-```
-	<div class="view">  
-     <img src="image.gif" />  
-     <div class="mask">  
-     <h2>Title</h2>  
-     <p>Your Text</p>  
-         <a href="#" class="info">Read More</a>  
-     </div>  
-</div>  
-```
-
-
-
-</code>
-
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
 </pre>
+```
 
 css كودىغا بۇن يىزىڭ
 <pre>
