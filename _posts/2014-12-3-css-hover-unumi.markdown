@@ -10,16 +10,19 @@ categories: css
 div قىسمىغا بۇنى يىزىڭ
 <pre>
 <code>
-<div class="view">  
-     <img src="" />  
+kod{
+	
+	<div class="view">  
+     <img src="image.gif" />  
      <div class="mask">  
      <h2>Title</h2>  
      <p>Your Text</p>  
          <a href="#" class="info">Read More</a>  
      </div>  
 </div>  
+}
+
 </code>
-</pre>
 
 </pre>
 
