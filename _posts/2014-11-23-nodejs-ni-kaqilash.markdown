@@ -20,8 +20,11 @@ height:auto;
 <br>
 
 <a href="http://tormahiri.github.io/blog/javascript/2014/11/23/nodejs-hakkida-tormahiri.html">node.js دىگەن زادى نىمە؟
-<video   controls>
-  <source  src="http://bilig.cc/course/27/lesson/200/media" type="video/mp4">
- 
+<br>
+<h2>
 
-</video>
+دەرسلىكنىڭ كۆرۈش ئادرىسى،دەرسلىك بىلىگ تورىغا يوللانغان بولۇپ،شۇيەردىن كۆرەلەيسىز
+
+<br>
+<a href="http://www.bilig.cc/course/27" target="_blank">كۆرۈش
+ 
