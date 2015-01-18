@@ -28,17 +28,12 @@ categories: language
 ئاخرىدا يۇمشاق دېتال ئاچقۇچىلارغا مۇشۇ جەھەتتە ئىزدىنىپ باقماقچى بولغانلارغا تۆۋەندىكىدەك ھالقىلىق سۆزلەرنى قالدۇرۇپ قويۇشنى لايىق تاپتىم ،بۇلار تۆۋەندىكىچە ،بۇ ھالقىلىق سۆزلەر ئارقىلىق 
 يىزىقى  ئوڭدىن سولغا باشلانغان تىللاردىن ئوڭ تەرەپ لايىھەسىگە مۇناسىۋەتلىك ئۇچۇرلارغا ئىرشكىلى بولىدۇ  
 <br>
-1. bidirectional text
-2. bidirectional user interface
-3. Item right-to-left user interface
-3. Item right-to-left design
 
-* Item
-* Item
-* Item
 
-- Item
-- Item
-- Item
+* bidirectional text
+* bidirectional user interface
+* right-to-left design
+* right-to-left layout
+* right-to-left user interface design
 
 
