@@ -20,6 +20,15 @@ JavaScript كودى يېزىلغان <script> تېگىنى تور بېتىڭىز
 تۆۋەندىكى JavaScript نىڭ ئاددى گرامماتىكىسىدىن ئىبارەت:
 <pre>
 <code>
-SELECT * FROM jadwalnami WHERE xahar LIKE 'h%';
+<html>
+<body>
+<script language="javascript" type="text/javascript">
+<!--
+   document.write("Hello World!")
+//-->
+</script>
+</body>
+</html>
+
 </code>
 </pre>
