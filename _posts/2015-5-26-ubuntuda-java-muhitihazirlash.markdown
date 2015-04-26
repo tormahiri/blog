@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ubuntu دە java مۇھىتى ھازىرلاش"
+title: "ubuntu دا java مۇھىتى ھازىرلاش"
 excerpt: "A nice post"
 date: 2015-5-26 23:55
 categories: linux
