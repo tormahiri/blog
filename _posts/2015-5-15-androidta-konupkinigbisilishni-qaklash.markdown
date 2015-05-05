@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "android ئەپ ئاچقاندا كونۇپكىنىڭ بېسىلىشنى چەكلەش "
+title: "دەرس: android ئەپ ئاچقاندا كونۇپكىنىڭ بېسىلىشنى چەكلەش "
 excerpt: "A nice post"
 date: 2015-5-16 15:55
 categories: java
