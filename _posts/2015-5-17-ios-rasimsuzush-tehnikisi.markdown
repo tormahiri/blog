@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ios دا رەسىم سۈزۈش تېخنىكىسى "
+title: "دەرس :ios دا رەسىم سۈزۈش تېخنىكىسى "
 excerpt: "A nice post"
 date: 2015-5-17 23:55
 categories: ios
