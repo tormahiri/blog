@@ -3,8 +3,8 @@ title: تورماھىرى بىلوگى
 email: ttormahiri@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
  تورماھىرى كۆچمە ئۈسكۈنىلەرگ ئەپ ئاچقۇچى،توربىكەت لايھىەلىگۈچى.
-
-url: "http://www.tormahiri.cn" # the base hostname & protocol for your site
+baseurl:/blog
+url: "tormahiri.github.io" # the base hostname & protocol for your site
 
 github_username:  tormahiri
 
